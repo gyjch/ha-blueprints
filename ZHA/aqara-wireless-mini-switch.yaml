@@ -1,5 +1,5 @@
 blueprint:
-  name: Aqara Zigbee Button
+  name: ZHA - Aqara Zigbee Button
   description: Setup actions for three functions of the Aqara Zigbee button with
     Press, Double Press, and Hold.
   domain: automation
